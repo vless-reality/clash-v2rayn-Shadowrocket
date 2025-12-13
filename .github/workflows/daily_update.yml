@@ -3,7 +3,7 @@ name: Auto Update VPN Nodes
 on:
   schedule:
     # 北京时间每天早上 8 点运行 (UTC 时间 0 点)
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch: # 允许手动点击按钮运行
 
 jobs:
