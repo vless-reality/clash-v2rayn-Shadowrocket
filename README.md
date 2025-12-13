@@ -17,7 +17,7 @@
 
 ---
 
-## 🗓️ 更新日志 (<!-- DATE_START -->2025.12.11<!-- DATE_END -->)
+## 🗓️ 更新日志 (<!-- DATE_START -->2025.12.13<!-- DATE_END -->)
 
 *   [新增] 自动脚本已部署，每日定时检测节点有效性。
 *   [优化] 引入随机排序机制，防止头部节点拥堵。
@@ -55,15 +55,14 @@
 ### 1. ChromeGo_Merge (自动优选推荐)
 目前维护最勤快的节点池之一，由志愿者维护。
 ```yaml
-https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/base64.txt
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 ```
 
 ### 2. Clash 订阅链接 (.yaml)
 适用于 Clash for Windows, Clash Verge, ClashX, Clash for Android
 ```yaml
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-https://raw.githubusercontent.com/vpe/free-proxies/main/clash/provider.yaml
-https://sub.pmsub.me/clash.yaml
+https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/base64.txt
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir
 ```
 
@@ -71,11 +70,11 @@ https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir
 适用于 v2rayN, Shadowrocket, QuantumultX
 ```text
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/freefq/free/master/v2
-https://sub.pmsub.me/base64
 https://raw.githubusercontent.com/pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+https://raw.githubusercontent.com/freefq/free/master/v2
 ```
+
 <!-- LINK_POOL_END -->
 
 ---
