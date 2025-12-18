@@ -16,7 +16,7 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 来源：https://vtg.yuncat.top, server: cf.yuncat.top, port: 443, type: vless, uuid: 28746fbc-1f07-4c18-99e2-610b2565f952, tls: true, tfo: false, skip-cert-verify: false, servername: testdoc.acg.rest, network: ws, ws-opts: {path: "/vlwstlscdn?ed=2560", headers: {Host: testdoc.acg.rest}}}
+  - {name: 公益节点来源：https://vtg.yuncat.top, server: cf.yuncat.top, port: 443, type: vless, uuid: 28746fbc-1f07-4c18-99e2-610b2565f952, tls: true, tfo: false, skip-cert-verify: false, servername: testdoc.acg.rest, network: ws, ws-opts: {path: "/vlwstlscdn?ed=2560", headers: {Host: testdoc.acg.rest}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
