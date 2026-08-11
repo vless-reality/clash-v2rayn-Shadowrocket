@@ -16,7 +16,7 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 公益节点来源：cloud.yuncataff.top, server: cloud.yuncataff.top, port: 443, type: vless, uuid: 28746fbc-1f07-4c18-99e2-610b2565f952, tls: true, tfo: false, skip-cert-verify: false, servername: cloud.yuncataff.top, network: ws, ws-opts: {path: "/dasgadsfg4g4d5s", headers: {Host: cloud.yuncataff.top}}}
+  - {name: 公益节点来源：vless-reality.github.io, server: vless-reality.github.io, port: 443, type: vless, uuid: 28746fbc-1f07-4c18-99e2-610b2565f952, tls: true, tfo: false, skip-cert-verify: false, servername: vless-reality.github.io, network: ws, ws-opts: {path: "/dasgadsfg4g4d5s", headers: {Host: vless-reality.github.io}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
