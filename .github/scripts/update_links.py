@@ -10,10 +10,10 @@ import random  # <--- 1. 引入随机模块
 # --------------------------------------------------------------------------------
 SOURCES = [
     # Clash 订阅源
-    ("ChromeGo Merge", "https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml", "clash"),
+    ("ChromeGo Merge", "https://raw.githubusercontent.com/vless-reality/vless-reality.github.io/refs/heads/main/.github/links/clash.yaml", "clash"),
     
     # V2Ray/Base64 订阅源
-    ("Ermaozi V2ray", "https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/v2.txt", "v2rayn通用")
+    ("Ermaozi V2ray", "https://raw.githubusercontent.com/vless-reality/vless-reality.github.io/refs/heads/main/.github/links/v2.txt", "v2rayn通用")
 
 ]
 
