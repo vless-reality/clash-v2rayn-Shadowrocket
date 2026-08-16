@@ -46,19 +46,19 @@
 ### 1. ChromeGo_Merge (自动优选推荐)
 目前维护最勤快的节点池之一，由志愿者维护。
 ```yaml
-https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml
+https://raw.githubusercontent.com/vless-reality/vless-reality.github.io/refs/heads/main/.github/links/clash.yaml
 ```
 
 ### 2. Clash 订阅链接 (.yaml)
 适用于 Clash for Windows, Clash Verge, ClashX, Clash for Android
 ```yaml
-https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml
+https://raw.githubusercontent.com/vless-reality/vless-reality.github.io/refs/heads/main/.github/links/clash.yaml
 ```
 
 ### 3. V2Ray/SSR 订阅链接 (Base64)
 适用于 v2rayN, Shadowrocket, QuantumultX
 ```text
-https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/v2.txt
+https://raw.githubusercontent.com/vless-reality/vless-reality.github.io/refs/heads/main/.github/links/v2.txt
 ```
 
 <!-- LINK_POOL_END -->
