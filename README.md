@@ -29,7 +29,7 @@
 ### 1. 免费试用/白嫖首选
 > 这些机场提供慷慨的试用流量，适合临时应急或轻度使用。
 
-*   **云猫**: [https://cloud.yuncat.top](https://cloud.yuncat.top) - 除了延迟有一点点高,实际网页和视频速度很快,也解锁全部chatgpt和gemini流媒体,价格便宜,注册试用3天。
+*   **云猫**: [https://cloud.yuncat.net](https://cloud.yuncat.net) - 除了延迟有一点点高,实际网页和视频速度很快,也解锁全部chatgpt和gemini流媒体,价格便宜,注册试用3天。
 *   **10元机场**: [http://xn--10-hw4c79tenwa.com/](http://xn--10-hw4c79tenwa.com/) - 顾名思义，12元/年，主要图个便宜，适合对速度要求不高的用户。
 
 *(注：如果你发现上述链接失效，请在 Issues 中反馈，我会及时移除)*
